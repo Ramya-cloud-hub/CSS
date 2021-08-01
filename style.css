@@ -1,0 +1,160 @@
+body{
+  margin:0px;
+}
+.container{
+  max-width: 1024px;
+  margin: auto;
+  display: block;
+}
+.logo-image img{
+  float:left;
+  width: 100px; 
+  height:73px;
+}
+.nav-menu-items{
+  padding: 25px;
+  float: left;
+  background-color: rgba(0, 26, 255, 0.897);  
+}
+.nav-menu-items a{
+ color: black;
+font-size: 20px;
+text-decoration: none;
+width:184.8px;
+}
+nav ul li{
+  display:block;
+  float:left;
+  padding-right: 10px;
+  list-style-type: none;
+  width: 174px;
+}
+.nav-menu-items ul{
+  padding:0px;
+  margin:0px;
+}
+.login-link{
+  padding: 25px;
+  float: left;
+  background-color:orange;
+  height: 23px;
+  width: 87px;
+}
+.login-link a{
+color: black;
+font-size: 20px;
+width:16%;
+text-decoration: none;
+}
+.body-container{
+  width: 100%;
+  display: block;
+  float: left;
+}
+.bodycontent-left{
+  background-color:darkgoldenrod;
+  display: block;
+  padding: 15px;
+  width: 66%;
+  float: left;
+}
+.bodycontent-right{
+  width: 25%;
+  background-color: gray;
+  float:left;
+  height: 1445px;
+  padding:31px;
+}
+header{
+    width: 100%;
+    display: block;
+    float:left;
+}
+h1,h2,h3,h5,p{
+  text-align: center;
+  color: black;
+  font-family:sans-serif;
+  text-align: justify
+}
+article{
+  width: 48%;
+  float:left;
+  display:block;
+}
+.article-first{
+  color: blue;
+  font-weight: bold;
+} 
+.article-images{
+  width:300px;
+  height:250px;
+}
+.column1{
+  padding-right: 20px;
+}
+.menu ul li{
+  list-style-type: number;
+}
+.li-green{
+  color:rgb(0, 128, 21);
+}
+.li-red{
+  color:red;
+}
+.footer-body{
+  background-color:rgb(153, 0, 255);
+  text-align: center;  
+  display: block;
+  text-align: center;
+  float: left;
+  width: 100%;
+  height: 60px;
+}
+span{
+  padding: 20px 0px;
+  display: inline-block;
+}
+.form-body{
+  background-color: rgba(255, 255, 0, 0.932);
+  padding: 20px;
+}
+.password{
+  display: inline-block;
+  width: 130px;
+  text-transform: uppercase; 
+}
+.email{
+  display: inline-block;
+  width: 130px;
+  text-transform: uppercase; 
+}
+.reset-button{
+ padding: 10px;
+ border-radius: 10px;
+ background-color: gray;
+ text-transform: uppercase; 
+}
+.sign-in-button{
+  padding: 10px;
+  background-color: rgba(0, 174, 255, 0.945);
+  border-radius: 10px;
+  text-transform: uppercase; 
+}
+.buttons{
+  padding:0px 0px 20px 140px;
+}
+.form-items{
+  border-style: solid;
+  border-radius: 20px;
+  width:500px;
+  display:block;
+  margin: 0px;
+  padding: 10px;
+}
+.headline{
+  padding: 10px;
+  display: block;
+}
+#CSS
+#CSS
+#CSS
