@@ -131,6 +131,11 @@ span{
   width: 130px;
   text-transform: uppercase; 
 }
+.name{
+  display: inline-block;
+  width: 130px;
+  text-transform: uppercase;
+}
 .reset-button{
  padding: 10px;
  border-radius: 10px;
@@ -158,6 +163,4 @@ span{
   padding: 10px;
   display: block;
 }
-#CSS
-#CSS
-#CSS
+
